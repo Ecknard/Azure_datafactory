@@ -1,0 +1,16 @@
+{
+	"name": "adf-samu-dev",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true,
+			"isExplicitlySet": false
+		}
+	},
+	"location": "spaincentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "be2b05d1-7929-44f9-b193-50592a7d20a0",
+		"tenantId": "75234489-685f-4bd1-8f8b-adc8102b6655"
+	}
+}
